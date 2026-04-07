@@ -1,0 +1,7 @@
+[7328:6624:0407/162415.356:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7328:7972:0407/162415.435:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7328:6624:0407/162415.526:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8332:6024:0407/162420.676:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-99EA2B6FA5FD2B35DB85E6CCE5DB6974 will be ignored
+[7328:6624:0407/162553.932:ERROR:device_event_log_impl.cc(196)] [16:25:53.912] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[7328:6624:0407/162553.932:ERROR:device_event_log_impl.cc(196)] [16:25:53.913] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[7328:6624:0407/165502.942:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

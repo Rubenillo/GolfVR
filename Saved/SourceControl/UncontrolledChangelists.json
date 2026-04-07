@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ParadigmasGrupo2/MacroGolf/Content/VRTemplate/VRTemplateMap_BuiltData.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/VRTemplate/VRTemplateMap.umap",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Blueprints/BP_Stick.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Interchange/Assets/Content/Materials/FBXLegacyPhongSurfaceMaterial.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Material_004.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/01_-_Default.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Blueprints/Bola_Golf.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Materials/Material_004.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Materials/Material_002.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Materials/Material_003.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Materials/01_-_Default.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Props/GolfStick.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Particles/NS_BallTrayectory.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/XRFramework/Blueprints/WBP_Menu.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/XRFramework/Blueprints/BP_XRPawn.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Blueprints/BP_GolfBall.uasset",
+				"D:/ParadigmasGrupo2/GolfVR/Content/Developer/Blueprints/BP_GolfBall.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/GolfStick.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Material_002.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Material_003.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/golf_ball.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/Bola_Golf.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/PArticulas/NS_BulletTrayectory.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/NS_BulletTrayectory.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Developer/NS_BallTrayectory.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Fab/Golf_Ball/golf_ball/Materials/01_-_Default.uasset",
+				"D:/ParadigmasGrupo2/MacroGolf/Content/Fab/Golf_Ball/golf_ball/StaticMeshes/golf_ball.uasset"
+			]
+		}
+	]
+}
