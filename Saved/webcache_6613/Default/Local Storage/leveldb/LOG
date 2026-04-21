@@ -1,3 +1,2 @@
-2026/04/20-19:03:59.871 4184 Reusing MANIFEST C:\Users\remom\Desktop\vr\GolfVR\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/20-19:03:59.876 4184 Recovering log #3
-2026/04/20-19:03:59.878 4184 Reusing old log C:\Users\remom\Desktop\vr\GolfVR\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/21-17:02:24.693 1fa8 Creating DB C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/04/21-17:02:24.727 1fa8 Reusing MANIFEST C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001

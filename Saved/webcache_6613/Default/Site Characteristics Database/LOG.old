@@ -1,2 +1,5 @@
-2026/04/14-20:09:01.911 6268 Creating DB C:\Users\remom\Desktop\vr\GolfVR\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
-2026/04/14-20:09:01.914 6268 Reusing MANIFEST C:\Users\remom\Desktop\vr\GolfVR\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/04/21-17:02:24.690 6c9c Log #3: 3 ops saved to Table #4 OK
+2026/04/21-17:02:24.693 6c9c Archiving C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/04/21-17:02:24.694 6c9c Table #4: 3 entries OK
+2026/04/21-17:02:24.698 6c9c Archiving C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/04/21-17:02:24.708 6c9c **** Repaired leveldb C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****
