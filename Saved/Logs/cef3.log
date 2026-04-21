@@ -1,17 +1,5 @@
-[1100:17120:0421/170224.074:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1100:17120:0421/170224.259:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[1100:17788:0421/170224.418:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[1100:17120:0421/170224.569:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1100:12124:0421/170231.669:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1100:12124:0421/170231.676:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1100:12124:0421/170231.682:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1100:12124:0421/170231.687:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ruben\Documents\GitHub\GolfVR\GolfVR\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1100:27804:0421/170232.301:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1100:27804:0421/170232.321:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17804:13984:0421/170232.817:ERROR:backend_impl.cc(989)] Critical error found -8
-[17804:13984:0421/170232.817:ERROR:entry_impl.cc(1029)] No file for c1030008
-[17804:13984:0421/170232.818:WARNING:storage_block-inl.h(138)] Failed data load.
-[28660:21440:0421/170233.007:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4F40C4226FCBA863DB2B171009195A05 will be ignored
-[17804:20236:0421/170233.927:WARNING:cache_util.cc(144)] Unable to delete cache folder.
-[1100:17120:0421/170552.850:ERROR:device_event_log_impl.cc(196)] [17:05:52.829] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[1100:17120:0421/175006.732:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[9980:25616:0421/164411.178:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9980:2056:0421/164411.208:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9980:25616:0421/164411.225:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18272:18408:0421/164414.067:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9147755436A0EFFBE659FBA706E11EC0 will be ignored
+[9980:25616:0421/173944.433:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
